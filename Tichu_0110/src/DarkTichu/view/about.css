@@ -1,0 +1,7 @@
+.label{
+	-fx-font-size: 18.0;
+  	-fx-font-weight: bold;
+  	-fx-font-family: "comic sans ms";
+  	-fx-font-style: italic;
+  	-fx-background-fills: skyblue ;
+}

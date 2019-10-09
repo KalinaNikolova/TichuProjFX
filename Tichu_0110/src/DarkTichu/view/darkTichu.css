@@ -1,0 +1,7 @@
+#pane{
+    -fx-background-image: url("/Tichu_0110/src/DarkTichu/images/Tichu_Cover1.JPG");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 900 506;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}

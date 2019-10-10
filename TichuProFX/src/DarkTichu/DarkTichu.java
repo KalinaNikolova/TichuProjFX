@@ -25,8 +25,6 @@ public class DarkTichu extends Application {
 		model = new DarkTichuModel();
 		view = new DarkTichuView(primaryStage, model);
 		controller = new DarkTichuController(model, view);
-                
-                System.out.println("Test");
 		
 		 }
 }

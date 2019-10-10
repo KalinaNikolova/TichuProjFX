@@ -1,0 +1,7 @@
+.root{
+  	-fx-font-size: 16.0;
+  	-fx-font-style: italic;
+ 	-fx-padding: 20.0;
+  	-fx-font-family: cursive;
+  	-fx-background-color: rgba(211.0,222.0,220.0,1.0);
+}

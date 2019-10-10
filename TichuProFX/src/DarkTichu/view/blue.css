@@ -1,0 +1,94 @@
+.label {
+	-fx-padding: 5.0px;
+    -fx-min-width: 200.0;
+    -fx-max-width: 2000.0;
+  	-fx-alignment: center;
+  	
+  	-fx-font-size: 18.0;
+  	-fx-font-weight: bold;
+  	-fx-font-family: "comic sans ms";
+  	-fx-font-style: italic;
+}
+
+#controlArea {
+    -fx-spacing: 40.0px;
+    -fx-padding: 5.0px;
+    -fx-border-color: black ;
+    -fx-border-width: 2.0px;
+    -fx-border-radius: 10.0;
+    
+    -fx-background-color:  lightblue;
+  	-fx-alignment: center;
+}
+
+.player {
+	-fx-padding: 5.0px;
+    -fx-border-color: black ;
+    -fx-border-width: 1.0px;
+    
+    -fx-background-color: lightblue  ;
+}
+
+.card {
+  	-fx-font-size: 18.0px;
+	-fx-padding: 2.0px;
+    -fx-border-color: black ;
+    -fx-border-width: 1.0px;
+	-fx-background-color: snow;
+    -fx-min-width: 50.0;
+    -fx-max-width: 100.0;
+    -fx-min-height: 80.0;
+    -fx-max-height: 200.0;
+   -fx-border-insets: 1.0px;
+	-fx-background-insets: 1.0px;
+}
+
+
+.button{
+	-fx-text-fill: black ;
+   	-fx-background-color: 
+        linear-gradient(cornsilk, skyblue);
+    -fx-background-radius: 30.0;
+    -fx-font-family: "cabin sketch";
+    -fx-font-size: 18.0;
+	-fx-font-weight: bold;
+	-fx-underline: true ; 
+}
+
+.menu-bar{
+ 	-fx-background-color:lightblue ;
+  	-fx-border-color:  lightblue ;
+}
+
+.menu-bar .label {
+    -fx-font-size: 16.0;
+    -fx-font-family: "Segoe UI Light";
+    -fx-text-fill: black;
+    -fx-padding: 1.0px ;
+    }
+    
+.menu-item .label{
+    -fx-font-size: 16.0 pt;
+}
+
+.root{
+	-fx-background-color: lightblue ;
+}
+
+#about{
+	-fx-background-color: black;
+	-fx-text-fill: lime;
+}
+
+#deck{
+	-fx-background-color: lightblue;
+}
+  
+.highlight {
+    -fx-background-color:#968DE5;
+}
+
+.lblhighlight {
+  -fx-text-fill: white;
+}
+        
